@@ -36,10 +36,10 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/tsolakoua
-      
+
   analytics:
     provider: google
-    property: G-XXXXXXXXXX
+    property: G-ZVP56KD0TZ
 
   consent:
     title: Cookie consent
