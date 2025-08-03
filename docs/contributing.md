@@ -24,7 +24,7 @@ Before running the project locally, make sure you have the following installed o
 
 Then clome the repository: 
 ```
-git clone https://github.com/tsolakoua/xxx.git
+git clone https://github.com/tsolakoua/crux-notes.git
 cd crux-notes
 ```
 
@@ -43,6 +43,3 @@ mkdocs serve
 ```
 
 Now you can go to http://127.0.0.1:8000 and check out the website.
-
-### Do you have any questions?
-Please reach out to xxx. 
