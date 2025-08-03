@@ -3,8 +3,9 @@
 
 ## What you will find
 
-- **Practical tips** and advice based on climbing books and official resources.
+- **Climbing advice and knowledge** based on books and official resources.
 - **Blog posts and stories from climbers** who’ve been through their own crux moments.
+- **Gear reviews** based on personal opinions.
 
 ## Join the project
 
