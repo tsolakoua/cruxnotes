@@ -6,14 +6,10 @@
 
 To find something useful or at least relatable, regardless of your climbing experience.
 
----
-
 ## What's inside?
 
 - Climbing knowledge from trusted resources.
 - Stories from fellow climbers who want to share their journeys and experience.
-
----
 
 ## Open source
 
