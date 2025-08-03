@@ -8,4 +8,4 @@
 
 ## Join the project
 
-This website is [open source](#). If you have your own story to share or any feedback, contributions are more than welcome!
+This website is [open source](https://github.com/tsolakoua/crux-notes.git). If you have your own story to share or any feedback, contributions are more than welcome!

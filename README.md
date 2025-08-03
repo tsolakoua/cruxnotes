@@ -1,16 +1,7 @@
-# Welcome to Crux Notes
+# Crux Notes
 
-> This website contains climbing tips based on climbing books and other official resources.
+This website contains climbing tips based on official resources and also stories shared by other climbers. 
 
-## The goal
+## Want to contribute? 
 
-To find something useful or at least relatable, regardless of your climbing experience.
-
-## What's inside?
-
-- Climbing knowledge from trusted resources.
-- Stories from fellow climbers who want to share their journeys and experience.
-
-## Open source
-
-This is an open source project. Feel free to [contribute on GitHub](https://github.com/tsolakoua/crux-notes) if you want!
+This is an open source project and all contributions are welcome.
