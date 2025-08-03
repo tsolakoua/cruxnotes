@@ -1,0 +1,38 @@
+site_name: Crux Notes
+
+theme:
+  name: material
+  palette:
+    primary: deep orange
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.footer
+    - navigation.top
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - search.share
+    - announce.dismiss
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.details
+  - pymdownx.superfences
+
+#Page tree
+nav:
+    - Home: index.md
+    - Training:
+       - Strength: strength.md
+    - Contribution:
+       - Contributing: contributing.md
+       - Code of conduct: code-of-conduct.md
+    - About: about.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/tsolakoua
