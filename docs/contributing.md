@@ -24,8 +24,8 @@ Before running the project locally, make sure you have the following installed o
 
 Then clome the repository: 
 ```
-git clone https://github.com/tsolakoua/crux-notes.git
-cd crux-notes
+git clone https://github.com/tsolakoua/cruxnotes.git
+cd cruxnotes
 ```
 
 Create your virtual environment and install the dependencies:

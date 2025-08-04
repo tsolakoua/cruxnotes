@@ -78,14 +78,14 @@
   </ul>
 
 <div style="text-align: center;">
-  <a href="https://tsolakoua.github.io/crux-notes/strength/" class="get-started-btn" style="color: white;">Go to learnings</a>
+  <a href="https://tsolakoua.github.io/cruxnotes/strength/" class="get-started-btn" style="color: white;">Go to learnings</a>
 </div>
 
 
   <h2>Join the Crux Notes project</h2>
   <p>
-    This website is <a href="https://github.com/tsolakoua/crux-notes.git" target="_blank">open source</a>, hosted on GitHub.
-    If you have your own story to share, any feedback or knowledge, go ahead and contribute! Anyone is welcome to be part of the community. 
+    This website is <a href="https://github.com/tsolakoua/cruxnotes.git" target="_blank">open source</a>, hosted on GitHub.
+    If you have your own story to share, any feedback or knowledge, go ahead and contribute! Anyone is welcome to be part of the community.
   </p>
 
   </div>

@@ -1,6 +1,6 @@
 
 site_name: Crux Notes
-site_url: https://tsolakoua.github.io/crux-notes/
+site_url: https://tsolakoua.github.io/cruxnotes/
 use_directory_urls: true
 site_description: Crux Notes is a trusted climbing resource featuring advice, climbers stories to help you progress on your climbing journey.
 
@@ -51,7 +51,9 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/tsolakoua/crux-notes
+      link: https://github.com/tsolakoua/cruxnotes
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/tsolakouanna/
 
   analytics:
     provider: google
