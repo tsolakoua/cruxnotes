@@ -1,0 +1,67 @@
+/* Hide sidebar on homepage */
+body.md-typeset__root--index .md-sidebar--primary {
+  display: none;
+}
+body.md-typeset__root--index .md-main {
+  margin-left: 0;
+  width: 100%;
+}
+
+/* Homepage hero container */
+body.md-typeset__root--index .homepage-hero {
+  /* Background image */
+  background-image: url('https://images.unsplash.com/photo-1564769662533-4f00a87b4056?q=80&w=3044&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  
+  /* Size */
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 2rem;
+  color: white;
+  text-align: center;
+  position: relative;
+  box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.4); /* dark overlay for text contrast */
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Content wrapper inside hero */
+body.md-typeset__root--index .homepage-hero .hero-content {
+  max-width: 700px;
+}
+
+/* Heading */
+body.md-typeset__root--index .homepage-hero h1 {
+  font-size: 3.5rem;
+  font-weight: 700;
+  margin-bottom: 0.5em;
+  text-shadow: 0 2px 6px rgba(0,0,0,0.7);
+}
+
+/* Paragraph */
+body.md-typeset__root--index .homepage-hero p {
+  font-size: 1.3rem;
+  margin-bottom: 2rem;
+  text-shadow: 0 1px 4px rgba(0,0,0,0.7);
+}
+
+/* Call to action button */
+body.md-typeset__root--index .homepage-hero .cta-button {
+  background-color: #009688;
+  color: white !important;
+  font-weight: 600;
+  padding: 0.75rem 2rem;
+  border-radius: 40px;
+  text-decoration: none;
+  box-shadow: 0 6px 12px rgba(0,150,136,0.6);
+  transition: background-color 0.3s ease;
+  display: inline-block;
+}
+
+body.md-typeset__root--index .homepage-hero .cta-button:hover {
+  background-color: #00796b;
+  box-shadow: 0 8px 16px rgba(0,120,107,0.8);
+}
