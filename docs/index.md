@@ -69,7 +69,6 @@
 <body>
   <div class="container">
     <h1>Welcome to the Crux Notes</h1>
-    <blockquote>Knowledge and stories for climbers by climbers.</blockquote>
 
   <h2>What you will find</h2>
   <ul>
