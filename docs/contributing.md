@@ -28,7 +28,7 @@ git clone https://github.com/tsolakoua/crux-notes.git
 cd crux-notes
 ```
 
-Create your virtual environment and install the dependences:
+Create your virtual environment and install the dependencies:
 
 ```
 python3 -m venv venv
@@ -42,4 +42,4 @@ Run the server:
 mkdocs serve
 ```
 
-Now you can go to http://127.0.0.1:8000 and check out the website.
+Now you can go to [http://127.0.0.1:8000](http://127.0.0.1:8000) and check out the website.
