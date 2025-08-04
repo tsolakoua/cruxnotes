@@ -1,4 +1,8 @@
+
 site_name: Crux Notes
+site_url: https://tsolakoua.github.io/crux-notes/
+use_directory_urls: true
+site_description: Crux Notes is a trusted climbing resource featuring advice, climbers stories to help you progress on your climbing journey.
 
 theme:
   name: material
@@ -22,20 +26,26 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
 
+plugins:
+  - search
+  - blog
+
 #Page tree
 nav:
     - Home: index.md
     - Training:
        - Strength: strength.md
+    - Blog:
+      - blog/index.md
     - Contribution:
-       - Contributing: contributing.md
-       - Code of conduct: code-of-conduct.md
+      - Contributing: contributing.md
+      - Code of conduct: code-of-conduct.md
     - About: about.md
 
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/tsolakoua
+      link: https://github.com/tsolakoua/crux-notes
 
   analytics:
     provider: google

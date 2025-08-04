@@ -1,4 +1,4 @@
-# Crux Notes
+#  Welcome to the Crux Notes
 >Knowledge and stories for climbers by climbers.
 
 ## What you will find

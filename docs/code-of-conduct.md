@@ -2,7 +2,7 @@
 
 Welcome to **Crux Notes**. This project is open source, and contributions are welcome.
 
-To keep things respectful and productive, we ask all contributors to follow this Code of Conduct.
+To keep things respectful and productive, we ask all contributors to follow this code of conduct.
 
 ---
 
@@ -29,7 +29,7 @@ To keep things respectful and productive, we ask all contributors to follow this
 
 ## 🛠 Reporting issues
 
-If you notice any behavior or content that violates this code of conduct, please [open an issue](https://github.com/tsolakoua/crux-notes.git) or [contact the maintainers](#).
+If you notice any behavior or content that violates this code of conduct, please [open an issue](https://github.com/tsolakoua/crux-notes.git) or [contact the maintainers](https://www.linkedin.com/in/tsolakouanna/).
 
 ---
 
