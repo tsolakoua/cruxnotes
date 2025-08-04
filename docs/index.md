@@ -11,9 +11,9 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    background-color: #d6d1de;
+    background-color: white;
     background-blend-mode: multiply;
-    color: #333;
+    color: black;
     line-height: 1.6;
   }
 
@@ -24,7 +24,6 @@
     left: 0;
     width: 100vw;
     height: 100vh;
-    background-color: rgba(152, 119, 171, 0.3); /* Deep purple overlay */
     z-index: 0;
     pointer-events: none; /* Allow clicks to pass through */
   }
@@ -33,7 +32,7 @@
     max-width: 800px;
     margin: 4rem auto;
     padding: 2rem;
-    background-color: rgba(255, 255, 255, 1);
+    background-color: white;
     border-radius: 12px;
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
   }
@@ -44,6 +43,26 @@
       display: none !important;
     }
   }
+
+  .get-started-btn {
+    display: inline-block;
+    margin-top: 2rem;
+    padding: 0.75rem 1.5rem;
+    font-size: 1.125rem;
+    font-weight: bold;
+    background: linear-gradient(135deg, #a678b4, #845ec2);
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    text-decoration: none;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+
+  .get-started-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.25);
+  }
+
 </style>
 
 </head>
@@ -52,18 +71,24 @@
     <h1>Welcome to the Crux Notes</h1>
     <blockquote>Knowledge and stories for climbers by climbers.</blockquote>
 
-    <h2>What you will find</h2>
-    <ul>
-      <li><strong>Climbing advice and knowledge</strong> based on books and official resources.</li>
-      <li><strong>Blog posts and stories from climbers</strong> who’ve been through their own crux moments.</li>
-      <li><strong>Gear reviews</strong> based on personal opinions.</li>
-    </ul>
+  <h2>What you will find</h2>
+  <ul>
+    <li><strong>Climbing advice and knowledge</strong> based on books and official resources.</li>
+    <li><strong>Blog posts and stories from climbers</strong> who’ve been through their own crux moments.</li>
+    <li><strong>Gear reviews</strong> based on personal opinions.</li>
+  </ul>
 
-    <h2>Join the project</h2>
-    <p>
-      This website is <a href="https://github.com/tsolakoua/crux-notes.git" target="_blank">open source</a>.
-      If you have your own story to share or any feedback, contributions are more than welcome!
-    </p>
+<div style="text-align: center;">
+  <a href="https://tsolakoua.github.io/crux-notes/strength/" class="get-started-btn" style="color: white;">Get Started</a>
+</div>
+
+
+  <h2>Join the project</h2>
+  <p>
+    This website is <a href="https://github.com/tsolakoua/crux-notes.git" target="_blank">open source</a>.
+    If you have your own story to share or any feedback, contributions are more than welcome!
+  </p>
+
   </div>
 </body>
 </html>
