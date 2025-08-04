@@ -9,7 +9,7 @@
 
     - **%1RM (Percentage of one repetition maximum)**: percentage of the maximum weight a person can lift once with proper technique.
 
-    - **Velocity loss**: number of repetitions performed relative to the maximum possible. For example, an RE of 8 (out of 12) means 8 repetitions were completed when 12 could have been done, leaving 4 reps in reserve.
+    - **Velocity loss**: Reduction in execution speed during a set, expressed as a percentage.
     
 ## Repetitions
 
