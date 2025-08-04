@@ -14,7 +14,7 @@
     background-color: white;
     background-blend-mode: multiply;
     color: black;
-    line-height: 1.6;
+    line-height: 1.5;
   }
 
   body::before {
