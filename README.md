@@ -1,6 +1,6 @@
 # Crux Notes
 
-This [website](https://tsolakoua.github.io/crux-notes/) contains climbing tips based on official resources and also stories shared by other climbers.
+This [website](https://tsolakoua.github.io/cruxnotes/) contains climbing tips based on official resources and also stories shared by other climbers.
 
 ## Want to contribute? 
 

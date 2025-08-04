@@ -1,4 +1,4 @@
-# Welcome to Crux Notes
+# About 
 
 > This website contains climbing tips based on climbing books and other official resources.
 
@@ -19,4 +19,4 @@ To find something useful or at least relatable, regardless of your climbing expe
 
 ## Open source
 
-This is an open source project. Feel free to [contribute on GitHub](https://github.com/tsolakoua/crux-notes.git) if you want!
+This is an open source project. Feel free to [contribute on GitHub](https://github.com/tsolakoua/cruxnotes.git) if you want!

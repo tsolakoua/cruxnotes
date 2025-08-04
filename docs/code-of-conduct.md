@@ -29,7 +29,7 @@ To keep things respectful and productive, we ask all contributors to follow this
 
 ## 🛠 Reporting issues
 
-If you notice any behavior or content that violates this code of conduct, please [open an issue](https://github.com/tsolakoua/crux-notes.git) or [contact the maintainers](https://www.linkedin.com/in/tsolakouanna/).
+If you notice any behavior or content that violates this code of conduct, please [open an issue](https://github.com/tsolakoua/cruxnotes.git) or [contact the maintainers](https://www.linkedin.com/in/tsolakouanna/).
 
 ---
 
