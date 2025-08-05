@@ -41,6 +41,7 @@ nav:
     - Home: index.md
     - Learnings:
        - Strength: strength.md
+       - Hangboard training: hangboard_training.md
     - Blog:
       - blog/index.md
     - Contribution:
