@@ -6,7 +6,7 @@
 
 ## The goal
 
-To find something useful or at least relatable, regardless of your climbing experience.
+To find something useful or at least relatable, regardless of your climbing experience. We often have access to great climbing books, videos, and expert advice. However, in reality, we either forget what we learn or don’t have the time to search for it again. Crux Notes is here to bring everything together in one single place, like a climbing notebook.
 
 ---
 
