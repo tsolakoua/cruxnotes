@@ -5,9 +5,22 @@ use_directory_urls: true
 site_description: Crux Notes is a trusted climbing resource featuring advice, climbers stories to help you progress on your climbing journey.
 
 theme:
+  logo: static/images/logo.png
   name: material
   palette:
-    primary: deep purple
+    # Light mode
+    - scheme: default
+      primary: deep purple
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    # Dark mode
+    - scheme: slate
+      primary: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -27,10 +40,6 @@ markdown_extensions:
   - attr_list
   - pymdownx.details
   - pymdownx.superfences
-
-extra_css:
-  - static/style.css
-
 
 plugins:
   - search

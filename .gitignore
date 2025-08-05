@@ -143,6 +143,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+virtualenv
 
 # Spyder project settings
 .spyderproject
@@ -201,3 +202,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# TODO
+TODO.md
