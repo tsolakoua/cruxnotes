@@ -1,0 +1,19 @@
+/* Admonition boxes will size based on their content */
+.md-typeset .admonition {
+  max-width: fit-content;
+}
+
+/* Enhanced styling for MkDocs tables */
+.md-typeset__table {
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+
+.md-typeset__table th {
+  background: lightseagreen;
+  color: white;
+  font-weight: 600;
+  padding: 12px 16px;
+  text-align: left;
+}
