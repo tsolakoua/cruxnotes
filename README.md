@@ -4,4 +4,4 @@ This [website](https://tsolakoua.github.io/cruxnotes/) contains climbing tips ba
 
 ## Want to contribute? 
 
-This is an open source project and all contributions are welcome.
+This is an open source project and all [contributions](https://tsolakoua.github.io/cruxnotes/contributing/) are welcome.
