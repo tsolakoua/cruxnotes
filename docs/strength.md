@@ -16,7 +16,7 @@
 These guidelines help adjust your training load according to whether you are a beginner, intermediate, or advanced climber.
 
 
-| **Level**     | **Velocity loss** | **RE (Repetition effort)**               | **%1RM**       |
+| **Level**     | **Velocity loss** | **RE**               | **%1RM**       |
 |---------------|-------------------|------------------------------------------|----------------|
 | **Beginners** | 10–20%            | 8 (out of 20) to 6 (out of 12)           | 57% – 70%      |
 | **Intermediates** | 10–25%        | 8 (out of 18) to 4–5 (out of 7–8)        | 57% – 80%      |
@@ -24,7 +24,7 @@ These guidelines help adjust your training load according to whether you are a b
 
 ## Exercises
 
-| **Upper Body**                   | **Core**                  | **Lower Body**              |
+| **Upper body**                   | **Core**                  | **Lower body**              |
 |:--------------------------------|:--------------------------|:----------------------------|
 | Bench press                     | Plank                     | Barbell squat               |
 | Push ups plus                   | Pallof press              | Deadlift                    |
