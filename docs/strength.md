@@ -1,6 +1,6 @@
 # Strength training for performance
 
-> _Based on_ _[The science of climbing training: An evidence-based guide to improving your climbing performance](https://sergioconsuegra.com/)_ _by Sergio Consuegra._
+> _Based on_ _[The science of climbing training: An evidence-based guide to improving your climbing performance](https://www.adventurebooks.com/products/the-science-of-climbing-training)_ _by Sergio Consuegra._
 
 ## Definitions 
 
@@ -27,7 +27,7 @@ These guidelines help adjust your training load according to whether you are a b
 | **Upper Body**                   | **Core**                  | **Lower Body**              |
 |:--------------------------------|:--------------------------|:----------------------------|
 | Bench press                     | Plank                     | Barbell squat               |
-| Push ups plus (brench press alt)| Pallof press              | Deadlift                    |
+| Push ups plus                   | Pallof press              | Deadlift                    |
 | Dips plus                       | Toes to bar               | Romanian deadlift           |
 | Military press                  | Knees to elbows           | Nordic curl                 |
 | Pull-ups                        | Abd-wheel                 | Razor curl                  |
@@ -35,3 +35,18 @@ These guidelines help adjust your training load according to whether you are a b
 | Face pull                       | Farmer walk               | Step up                     |
 |                                 | Glute bridge              | Pistol squat                |
 |                                 | Superman all fours        | Calf raises                 |
+
+
+!!! Informationn "Equipment needed"
+
+    - Pull-up bar  
+    - Barbell with weight plates
+    - Flat bench (or a sturdy surface)  
+    - Resistance bands (for face pulls, pallof press)  
+    - Ab wheel or sliders (for core work)
+
+    **Nice to have**
+
+    - Dumbbells or kettlebells (for farmer walks, split squats, step-ups)  
+    - Box or step (for step-ups, bulgarian split squats) 
+    - Yoga mat (for floor exercises)

@@ -34,6 +34,7 @@ theme:
     - announce.dismiss
     - content.code.copy
     - toc.integrate
+    - content.tables.responsive
 
 markdown_extensions:
   - admonition
@@ -45,12 +46,15 @@ plugins:
   - search
   - blog
 
+extra_css:
+  - static/style/style.css
+
 #Page tree
 nav:
     - Home: index.md
     - Learnings:
-       - Strength: strength.md
-       - Hangboard training: hangboard-training.md
+       - Strength training: strength.md
+       - Intermittent hangs: intermittent-hangs.md
     - Blog:
       - blog/index.md
     - Contribution:

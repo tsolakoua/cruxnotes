@@ -1,21 +1,13 @@
 # About 
 
-> This website contains climbing tips based on climbing books and other official resources.
+## What's inside
 
----
+- Climbing knowledge from trusted resources.
+- Stories and reviews from fellow climbers who want to share their journeys and experience.
 
 ## The goal
 
 To find something useful or at least relatable, regardless of your climbing experience. We often have access to great climbing books, videos, and expert advice. However, in reality, we either forget what we learn or don’t have the time to search for it again. Crux Notes is here to bring everything together in one single place, like a climbing notebook.
-
----
-
-## What's inside?
-
-- Climbing knowledge from trusted resources.
-- Stories from fellow climbers who want to share their journeys and experience.
-
----
 
 ## Open source
 
