@@ -18,9 +18,9 @@ These guidelines help adjust your training load according to whether you are a b
 
 | **Level**     | **Velocity loss** | **RE**               | **%1RM**       |
 |---------------|-------------------|------------------------------------------|----------------|
-| **Beginners** | 10–20%            | 8 (out of 20) to 6 (out of 12)           | 57% – 70%      |
-| **Intermediates** | 10–25%        | 8 (out of 18) to 4–5 (out of 7–8)        | 57% – 80%      |
-| **Advanced**  | 15–25%            | 8 (out of 16) to 1–3 (out of 2–4)        | 60% – 90%      |
+| **Beginners** | 10–20%            | 8 (20) to 6 (12)           | 57% – 70%      |
+| **Intermediates** | 10–25%        | 8 (18) to 4–5 (7–8)        | 57% – 80%      |
+| **Advanced**  | 15–25%            | 8 (16) to 1–3 (2–4)        | 60% – 90%      |
 
 ## Exercises
 
@@ -30,7 +30,7 @@ These guidelines help adjust your training load according to whether you are a b
 | Push ups plus                   | Pallof press              | Deadlift                    |
 | Dips plus                       | Toes to bar               | Romanian deadlift           |
 | Military press                  | Knees to elbows           | Nordic curl                 |
-| Pull-ups                        | Abd-wheel                 | Razor curl                  |
+| Pull-ups                        | Ab-wheel                  | Razor curl                  |
 | Barbell row                     | Front lever               | Bulgarian split squat       |
 | Face pull                       | Farmer walk               | Step up                     |
 |                                 | Glute bridge              | Pistol squat                |
