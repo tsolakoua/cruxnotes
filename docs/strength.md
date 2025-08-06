@@ -18,9 +18,9 @@ These guidelines help adjust your training load according to whether you are a b
 
 | **Level**     | **Velocity loss** | **RE**               | **%1RM**       |
 |---------------|-------------------|------------------------------------------|----------------|
-| **Beginners** | 10–20%            | 8 (20) to 6 (12)           | 55% – 70%      |
-| **Intermediates** | 10–25%        | 8 (18) to 4–5 (7–8)        | 57% – 80%      |
-| **Advanced**  | 15–25%            | 8 (16) to 1–3 (2–4)        | 60% – 90%      |
+| **Beginners** | 10–20%            | 8(20) to 6(12)           | 55–70%      |
+| **Intermediates** | 10–25%        | 8(18) to 4–5(7–8)        | 57–80%      |
+| **Advanced**  | 15–25%            | 8(16) to 1–3(2–4)        | 60–90%      |
 
 ## Exercises
 
