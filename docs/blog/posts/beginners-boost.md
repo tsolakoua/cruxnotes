@@ -20,9 +20,9 @@ Then we spent the next hour learning the following techniques:
 
 - **Drop knee**: a technique where you turn one knee inward and drop it down, rotating your hips toward the wall to extend your reach and reduce strain on your arms.
 
-- **Flagging**: using one foot that is not stepping on any foothold as a counterbalance to reach to the next hold or avoid barn door
+- **Flagging**: using one foot that is not stepping on any foothold as a counterbalance to reach to the next hold or avoid barn door.
 
-- **Rockover**: a weight-shifting technique where you step onto a foothold and move your center of gravity directly above it by bringing your hips over the foot,
+- **Rockover**: a weight-shifting technique where you step onto a foothold and move your center of gravity directly above it by bringing your hips over the foot.
 
 Honestly, I felt I was so bad at them during the class, especially the drop knee. It didn’t feel natural at all. But learning what these techniques are was only the beginning. I spent the next month (or more) practicing them on easy boulders consistently. Again and again. That’s what really made the difference.
 
