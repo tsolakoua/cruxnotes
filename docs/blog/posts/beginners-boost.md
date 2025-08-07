@@ -28,9 +28,9 @@ Honestly, I felt I was so bad at them during the class, especially the drop knee
 
 So there are a few things that helped me improve:
 
-- Learn the techniques — either by taking a class, asking your friends, or looking for online resources
-- Practice and consistency are the key
-- Repeat climbs to apply techniques if you think you can perform them smoother
+- Learn the techniques — either by taking a class, asking your friends, or looking for online resources.
+- Practice and consistency are key.
+- Repeat climbs to apply techniques if you think you can perform them smoother.
 
 All in all, knowing what you are doing and climbing mindfully, not only can make you a better climber, but it will also make you enjoy more your sessions!
 
