@@ -32,7 +32,7 @@ However, it’s a mistake to think swelling is the same as inflammation, because
 
 And the best way to reduce swelling is to keep the muscle active.
 
-## PEACE & LOVE Framework
+## PEACE & LOVE method
 
 That’s why another framework was created after RICE,  called **PEACE** and **LOVE**.
 
