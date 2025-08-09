@@ -16,7 +16,7 @@ The RICE method was developed in 1978 by the doctor Gabe Mirkin to help reduce t
 - **Rest**: give your body a break and avoid using the injured area.  
 - **Ice**: apply ice in the injured area to reduce pain and swelling.  
 - **Compression**: wrap the affected area to keep swelling under control.  
-- **Elevate**: keep the injured area above your heart to reduce pain, throbbing and swelling. .
+- **Elevate**: keep the injured area above your heart to reduce pain, throbbing and swelling.
 
 But after years, they found out that resting with placing cold to the injured area, actually can have a negative effect.
 
