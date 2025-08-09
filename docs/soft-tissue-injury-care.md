@@ -13,10 +13,10 @@ The RICE method was developed in 1978 by the doctor Gabe Mirkin to help reduce t
 
 **RICE** stands for:
 
-- **Rest**
-- **Ice**
-- **Compression**
-- **Elevate**
+- **Rest**: give your body a break and avoid using the injured area.  
+- **Ice**: apply ice in the injured area to reduce pain and swelling.  
+- **Compression**: wrap the affected area to keep swelling under control.  
+- **Elevate**: keep the injured area above your heart to reduce pain, throbbing and swelling. .
 
 But after years, they found out that resting with placing cold to the injured area, actually can have a negative effect.
 
@@ -51,7 +51,7 @@ That’s why another framework was created after RICE,  called **PEACE** and **L
   Use bandages or compression wraps to control swelling around the injured area.
 
 - **E - Educate**  
-  Due to the huge amount of information you can find online, consider learning about your injury and the best ways to care for it with the help of a health professional.
+  Due to the huge amount of information you can find online, consider learning about your injury and the best ways to care of it with the help of a health professional.
 
 ---
 
