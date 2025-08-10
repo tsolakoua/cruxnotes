@@ -51,7 +51,7 @@ That’s why another framework was created after RICE,  called **PEACE** and **L
   Use bandages or compression wraps to control swelling around the injured area.
 
 - **E - Educate**  
-  Due to the huge amount of information you can find online, consider learning about your injury and the best ways to care of it with the help of a health professional.
+  Due to the huge amount of information you can find online, consider learning about your injury and the best ways to take care of it with the help of a health professional.
 
 ---
 
