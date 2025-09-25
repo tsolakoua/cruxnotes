@@ -1,13 +1,19 @@
 # About 
 
-## What's inside
+## About the author
 
-- Climbing knowledge from trusted resources.
-- Stories and reviews from fellow climbers who want to share their journeys and experience.
+![Climbing Crux](static/images/oscar.jpeg){ width=250 }
 
-## The goal
 
-To find something useful or at least relatable, regardless of your climbing experience. We often have access to great climbing books, videos, and expert advice. However, in reality, we either forget what we learn or don’t have the time to search for it again. Crux Notes is here to bring everything together in one single place, like a climbing notebook.
+Hello all,
+
+My name is Anna! I started climbing 3 years ago and I really love it. I wouldn’t say I am a great climber but I always seek ways to improve my technique and become stronger both physically and mentally.
+
+During my climbing journey I have read several books. Sometimes however it’s hard to remember everything I learn and I would love to have something like a notebook to access this valuable information. And why not sharing it to other climbers too?
+
+That’s why I decided to build the Crux Notes. My goal is not only to share this knowledge but also to make sure it’s quality one. We all know about the "bro science", the kind of advice that gets passed around a lot but isn’t always backed by real evidence.
+
+For more personal opinions, we have the blog section, where you can share your own journey and the things that have helped you along the way.
 
 ## Open source
 
