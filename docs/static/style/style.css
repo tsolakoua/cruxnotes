@@ -17,3 +17,14 @@
   padding: 12px 16px;
   text-align: left;
 }
+
+/* Keep top menu bar full width */
+.md-header {
+    width: 100%;
+}
+
+/* Narrow main content only */
+.md-main__inner {
+    max-width: 800px; 
+
+}
