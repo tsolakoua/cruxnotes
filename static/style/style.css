@@ -22,9 +22,3 @@
 .md-header {
     width: 100%;
 }
-
-/* Narrow main content only */
-.md-main__inner {
-    max-width: 800px; 
-
-}
